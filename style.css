@@ -1,0 +1,32 @@
+.main{
+    height: 450px;
+    width: 330px;
+    background: rgb(46, 45, 45);
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+#n1,#n2{
+    margin-top: 40px;
+    margin-left: 45px ;
+    height: 30px;
+    width: 220px;
+    font-size: larger;
+}
+#n3{
+    margin-top: 30px;
+    margin-left: 25px ;
+    height: 30px;
+    width: 220px;
+    font-size: larger;
+
+}
+input[type="submit"]{
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    justify-content: space-between;
+    margin-left: 50px;
+}
